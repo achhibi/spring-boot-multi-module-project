@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "a",
+      "type": "br"
+    }
+  ],
+  "properties": [
+    {
+      "name": "config.name",
+      "type": "java.lang.Integer",
+      "description": "the name."
+    }
+  ],
+  "hints": []
+}

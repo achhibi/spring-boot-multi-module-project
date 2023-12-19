@@ -1,0 +1,7 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+org.demo.config.MapConfig, \
+org.demo.config.analyzer.AutoConfiguration, \
+org.demo.config.DynamicConfig
+
+org.springframework.boot.diagnostics.FailureAnalyzer= \
+org.demo.config.analyzer.ConfigurationFailureAnalyzer
